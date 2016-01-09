@@ -1,3 +1,7 @@
+This is my submission for the first course project in "Exploratory Data Analysis". The submission contains files `plot1.R` through `plot4.R` that generate plots `plot1.png` through `plot4.png`. `plot1.R` also contains code for downloading and unzipping the data.
+
+The original readme file is below.
+
 ## Introduction
 
 This assignment uses data from
